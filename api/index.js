@@ -26,11 +26,11 @@
     
     const url = 'https://go.aff.esportiva.bet/6j30imbu?campaign_id=7176'
 
-    const shareCode = '&shareCode=ZA1FSKCMGXP'
+    const shareCode = '&shareCode=G3RY6W4IMDW'
     
-    const afp = '&afp2'
+    const afp = '&afp2=tp'
     
-    const source = '&utm_source=ti'
+    const source = '&utm_medium=tp'
 
     const destino = url+shareCode+afp+source
 
