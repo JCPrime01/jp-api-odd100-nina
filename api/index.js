@@ -24,13 +24,13 @@
       return;
       }
     
-    const url = 'https://go.aff.estrelabetpartners.com/hdjm0w5b?campaign_id=31453'
+    const url = 'https://go.aff.esportiva.bet/6j30imbu?campaign_id=7176'
 
     const shareCode = '&shareCode=JNWI23CT21K'
     
-    const afp = '&afp=boa'
+    const afp = '&afp2=tp'
     
-    const source = '&utm_medium=cmd'
+    const source = '&utm_medium=tp'
 
     const destino = new URL(url + shareCode + afp + source)
 
